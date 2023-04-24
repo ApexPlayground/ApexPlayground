@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HomeOwnersAngularApp](https://github.com/ApexPlayground/HomeOwnersAngularApp)
 
-- 🌱 I’m currently learning **Angular*
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://apexplayground.github.io/PorfolioSite/index.html](https://apexplayground.github.io/PorfolioSite/index.html)
 
