@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divine Eboigbe</h1>
 <h3 align="center">A CS Undergraduate</h3>
 
-- 🔭 I’m currently working on [HomeOwnersAngularApp](https://github.com/ApexPlayground/HomeOwnersAngularApp)
-
-- 🌱 I’m currently learning **Angular**
-
 - 👨‍💻 All of my projects are available at [https://apexplayground.github.io/PorfolioSite/index.html](https://apexplayground.github.io/PorfolioSite/index.html)
 
 - 📫 How to reach me **ogbedivine7@gmail.com**
