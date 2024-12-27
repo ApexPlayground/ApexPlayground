@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://apexplayground.github.io/PorfolioSite/index.html](https://apexplayground.github.io/PorfolioSite/index.html)
+- 👨‍💻 All of my projects are available at [My Site](https://apexplayground.netlify.app/)
 
 - 📫 How to reach me **ogbedivine7@gmail.com**
 
